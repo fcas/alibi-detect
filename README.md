@@ -25,7 +25,7 @@
 <!--- BADGES: END --->
 ---
 
-[Alibi Detect](https://github.com/SeldonIO/alibi-detect) is a Python library focused on **outlier**, **adversarial** and **drift** detection. The package aims to cover both online and offline detectors for tabular data, text, images and time series. Both **TensorFlow** and **PyTorch** backends are supported for drift detection.
+[Alibi Detect](https://github.com/SeldonIO/alibi-detect) is a source-available Python library focused on **outlier**, **adversarial** and **drift** detection. The package aims to cover both online and offline detectors for tabular data, text, images and time series. Both **TensorFlow** and **PyTorch** backends are supported for drift detection.
 *  [Documentation](https://docs.seldon.io/projects/alibi-detect/en/stable/)
 
 For more background on the importance of monitoring outliers and distributions in a production setting, check out [this talk](https://slideslive.com/38931758/monitoring-and-explainability-of-models-in-production?ref=speaker-37384-latest) from the *Challenges in Deploying and Monitoring Machine Learning Systems* ICML 2020 workshop, based on the paper [Monitoring and explainability of models in production](https://arxiv.org/abs/2007.06299) and referencing Alibi Detect.
@@ -407,8 +407,8 @@ BibTeX entry:
   title = {Alibi Detect: Algorithms for outlier, adversarial and drift detection},
   author = {Van Looveren, Arnaud and Klaise, Janis and Vacanti, Giovanni and Cobb, Oliver and Scillitoe, Ashley and Samoilescu, Robert and Athorne, Alex},
   url = {https://github.com/SeldonIO/alibi-detect},
-  version = {0.12.1.dev0},
-  date = {2024-04-17},
+  version = {0.13.0},
+  date = {2025-12-11},
   year = {2019}
 }
 ```
